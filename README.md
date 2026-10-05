@@ -50,8 +50,8 @@ I build full-stack products with AI layers, write research papers around them, a
 ## 📫 Let's connect
 
 - GitHub: [@gorrelayashwanth](https://github.com/gorrelayashwanth)
-- LinkedIn: *add your link*
-- Email: *add your email*
+- LinkedIn: *https://www.linkedin.com/in/gorrelayashwanth*
+- Email: *yashwanthgorrela@gmail.com*
 
 ---
 
